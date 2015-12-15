@@ -1,4 +1,5 @@
 //black or white fallacy
+//click to change states
 int pressed =0;
 int img;
 void setup() {
