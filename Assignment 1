@@ -1,3 +1,4 @@
+// move mouse to affect the img
 void setup() {
   size(1280, 800);
 }
