@@ -1,3 +1,4 @@
+//click to fire arrow and hit target
 float center;
 float forward;
 float side;
